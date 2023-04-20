@@ -4,12 +4,17 @@
 }
 
 img{
-    width: 200px;
+    width: 300px;
     height: 200px;
+    border-style: groove;
+    border-color: yellow;
+    border-width: 20px;
+    border-radius: 65%;
 }
 
 body{
     background-color: #70abaf;
+    background-image: url(images/Free\ Vintage\ Retro\ 70s\ Desktop\ Wallpaper\ template.jpg);
     
 }
 h3 {
@@ -32,8 +37,6 @@ p{
     text-align: center;
 }
 
-p:hover{
-    background-color: black;
-}
+
 
 
