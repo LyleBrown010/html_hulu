@@ -1,0 +1,39 @@
+*{
+    text-align: center;
+    color: #f0f7f4;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+body{
+    background-color: #70abaf;
+    
+}
+h3 {
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+.section {
+    border-bottom-style: double ;
+    border-bottom-color: #ffff00 ;
+}
+
+a.contactForm:hover{
+    color:#ffff00;
+    font-size: 20px;
+}
+
+p{
+    text-align: center;
+}
+
+p:hover{
+    background-color: black;
+}
+
+
